@@ -1,6 +1,10 @@
 body {
     font-family: 'Outfit', sans-serif;
-    background-color: hsl(212, 45%, 89%)
+    background-color: hsl(212, 45%, 89%);
+    min-height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .caixa {
